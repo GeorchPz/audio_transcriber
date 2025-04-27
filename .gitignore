@@ -1,0 +1,9 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore mp3 audio files
+*.mp3
+
+# Ignore nuk files
+files_nuk/
+nuk_whisper.ipynb
